@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JapaneseFerry", "JapaneseFerry\JapaneseFerry.csproj", "{D847721D-9B59-438E-A149-0C749D3C558F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D847721D-9B59-438E-A149-0C749D3C558F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D847721D-9B59-438E-A149-0C749D3C558F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D847721D-9B59-438E-A149-0C749D3C558F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D847721D-9B59-438E-A149-0C749D3C558F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
